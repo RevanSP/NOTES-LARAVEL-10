@@ -20,9 +20,9 @@
             <td><img src="https://drive.google.com/uc?id=1-cAKFsUIw8vB_T1ijrumx6Ve8jm3Bi2t" alt="bootstrap"></td>
             <td><img src="https://drive.google.com/uc?id=1_iGEH8mV2pWHrWvJaT64m9gsRRiCEVSu" alt="jquery"></td>
             <td><img src="https://drive.google.com/uc?id=1nlP1obtiLULr95mgSX9IW_S78p9TTt4Y" alt="php"></td>
-            <td><img src="https://drive.google.com/uc?id=1HRo72grxPCnzD3CtQj7Oec_Nrhg_pe6f" alt="laravel"></td>
-            <td><img src="https://drive.google.com/uc?id=1HRo72grxPCnzD3CtQj7Oec_Nrhg_pe6f" alt="livewire"></td>
-            <td><img src="https://drive.google.com/uc?id=1HRo72grxPCnzD3CtQj7Oec_Nrhg_pe6f" alt="mysql"></td>
+            <td><img src="https://drive.google.com/uc?id=14XeZq-XaIr82U_CgLt7dcIqqvTAnV_4e" alt="laravel"></td>
+            <td><img src="https://drive.google.com/uc?id=1cMwPcHb259MXh5rFWOM-pzK6lP_PKsz6" alt="livewire"></td>
+            <td><img src="https://drive.google.com/uc?id=1ao8PzV4bbrsb3Fh2O7-yDXt-24TEwMTQ" alt="mysql"></td>
         </tr>
     </table>
 </body>
